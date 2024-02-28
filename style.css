@@ -11,9 +11,20 @@ html,body{
 body{
     background-color: #222222;
 }
+.chess{
+    padding-top: 40px;
+    padding-left: 30%;   
+}
+/* .border{
+    border: 6px solid #B06B26;
+} */
 .one{
     background-color: #B06B26;
+    height: 70px;
+    width: 70px;
 }
 .two{
     background-color: #FBD6A1;
+    height: 70px;
+    width: 70px;
 }
